@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SwitchController</string>
+    <string name="tab_control_title">Điều khiển</string>
+    <string name="tab_settings_text">cài đặt</string>
+    <string name="timer_time_param">timer_time</string>
+    <string name="KEY_TIME_ON">time_on</string>
+    <string name="KEY_TIME_ON_ENABLE">time_on_enable</string>
+    <string name="KEY_TIME_OFF">time_off</string>
+    <string name="KEY_TIME_OFF_ENABLE">time_off_enable</string>
+    <string name="firebase_client_id">961532031748-bjvkd1h83u4hm2bhi2heeq7ar6noogh4.apps.googleusercontent.com</string>
+</resources>

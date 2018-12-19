@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "961532031748",
+    "firebase_url": "https://switchcontroller-bkdn.firebaseio.com",
+    "project_id": "switchcontroller-bkdn",
+    "storage_bucket": "switchcontroller-bkdn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961532031748:android:d7ff5fe09cb1f338",
+        "android_client_info": {
+          "package_name": "trung.switchcontroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961532031748-nob470ct0kts9hcmkq9udf4jcla0vlin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "trung.switchcontroller",
+            "certificate_hash": "b6f0bce4f18d6facffc6304dc8255b20f6813b56"
+          }
+        },
+        {
+          "client_id": "961532031748-90e0f1amtpb1oo4re6mosia2rbkv9k4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb9jpbSoJTWZJjaZ7kFu0rSVD2lQPm_1M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961532031748-90e0f1amtpb1oo4re6mosia2rbkv9k4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
